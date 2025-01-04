@@ -11,7 +11,7 @@ Usage Instructions
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/ml-model-selector.git
+git clone https://github.com/ZainabBee24/ml-model-selector.git
 
 
 2. Navigate to the project directory:
