@@ -1,6 +1,8 @@
 ☁️Project Title
-#Model Selection Advisor
+  Model Selection Advisor
+  
 ☁️Overview
+
 The ML Model Selector is a beginner-friendly tool designed to assist data science enthusiasts in choosing the most suitable machine learning model. It provides suggestions based on the dataset type and size through an intuitive dropdown menu.
 
 ☁️Features
